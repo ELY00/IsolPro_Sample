@@ -28,7 +28,7 @@
 - CSS
 - Bootstrap
 
-<h1 align="center"> Contributors </h1>
+<h1 align="center"> Contributor </h1>
 <table align="center">
 <tr align="center">
 <td>
