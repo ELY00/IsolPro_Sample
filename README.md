@@ -5,9 +5,9 @@
 ## Preview of plasm-O-pheresis
 <img src="https://github.com/ELY00/IsolPro_Sample/blob/main/rm1.JPG" height="500" width="1000">
 
-<img src="https://github.com/ELY00/IsolPro_Sample/blob/main/rm2.JPG" height="400" width="1000">
+<img src="https://github.com/ELY00/IsolPro_Sample/blob/main/rm2.JPG" height="380" width="1000">
 
-<img src="https://github.com/ELY00/IsolPro_Sample/blob/main/rm3.JPG" height="400" width="1000">
+<img src="https://github.com/ELY00/IsolPro_Sample/blob/main/rm3.JPG" height="380" width="1000">
 
 <img src="https://github.com/ELY00/IsolPro_Sample/blob/main/rm4.JPG" height="400" width="1000">
 
