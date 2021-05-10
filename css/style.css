@@ -1,0 +1,237 @@
+.navbar{
+	background-color: white;
+	border-style: solid;
+	border-top-width: 0;
+	border-left-width: 0;
+	border-right-width: 0;
+	border-bottom-width: 0.1rem;
+	border-color: rgb(224,224,224);
+}
+
+.nav-item{
+	padding-right: 2rem;
+	font-weight: bold;
+}
+
+#price{
+	padding-top: 1rem;
+	font-size: 1rem;
+}
+
+.shop{
+	text-align: right;
+	font-size: 1.8rem;
+	padding-right: 1rem;
+}
+
+.carousel-item{
+	position: relative;
+    display: none;
+	overflow: visible;
+    float: left;
+    width: 100%;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: -webkit-transform .6s ease-in-out;
+    transition: transform .6s ease-in-out;
+    transition: transform .6s ease-in-out,-webkit-transform .6s ease-in-out;
+}
+
+.carousel-indicators li{
+    width: 0.8rem;
+    height: 0.8rem;
+    border-radius: 100%;
+	border-width: 0.3rem;
+	border-style: solid;
+	border-color: transparent;
+}
+
+.carousel-indicators li.active{
+	width: 0.8rem;
+    height: 0.8rem;
+    border-radius: 100%;
+	border-width: 0.3rem;
+	border-style: solid;
+	border-color: black;
+}
+
+.one{
+	background-image: url(https://images.unsplash.com/photo-1534190239940-9ba8944ea261?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+
+.two{
+    background-image: url(https://images.unsplash.com/photo-1569783899817-a49d2d25287c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+
+.three{
+    background-image: url(https://images.pexels.com/photos/3637835/pexels-photo-3637835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+
+.carousel-item-next, .carousel-item-prev, .carousel-item.active {
+    display: block;
+}
+
+#store-products1{
+	padding-top: 3rem;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#store-products2{
+	padding-top: 2rem;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#store-products3{
+	padding-top: 2rem;
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 2.5rem;
+}
+
+#store-products4{
+	padding-top: 2rem;
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 3rem;
+}
+
+#store-products5{
+	padding-top: 2rem;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.row{
+	--bs-gutter-x: 0;
+    --bs-gutter-y: 0;
+}
+
+#arrsec0{
+	padding-bottom: 1rem;
+	padding-left: 0.5rem;
+}
+
+.arrsec{
+	padding-top: 0.2rem;
+	font-size: 1rem;
+}
+
+.arrsec:hover{
+	color: yellow;
+	border-style: solid;
+	border-color: rgba(255, 173, 51, 1);
+	border-width: 0.1rem;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.arrsec1{
+	text-decoration: none;
+	color: black
+}
+
+.arrsec1 p{
+	margin: 0;
+	text-align: center;
+}
+
+.accsec{
+	padding-top: 0.4rem;
+	font-size: 1rem;
+}
+
+.accsec:hover{
+	color: yellow;
+	border-style: solid;
+	border-color: rgba(255, 173, 51, 1);
+	border-width: 0.1rem;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.accsec1{
+	text-decoration: none;
+	color: black
+}
+
+.accsec1 p{
+	margin: 0;
+	text-align: center;
+}
+
+.cardz{
+	padding-left: 0.7rem;
+	padding-right: 0;
+	padding-bottom: 0;
+	margin-top: 0;
+}
+
+.cardz1{
+	padding-bottom: 0;
+	margin-top: 1rem;
+}
+
+.mb-5{
+	margin-bottom: 0!important;
+}
+
+.mb-5, .my-5{
+	margin-bottom: 0;
+}
+
+.g-5, .gx-5 {
+	--bs-gutter-x: 1.1rem;
+}
+
+#sec{
+	background-color: rgb(224,224,224);
+}
+
+.high{
+	margin-top: 0.5rem;
+	padding-left: 0;
+	padding-right: 2rem;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	color: red;
+	text-decoration: none;
+}
+
+.copy{
+	padding-top: 0.3rem;
+}
+
+.payimg img{
+	padding-left: 2rem;
+}
+
+.footer {
+    text-align: left;
+    padding: 1.5rem;
+    margin-top: 3%;
+    background-color: rgba(255, 173, 51, 1);
+    padding-bottom: 0.8rem;
+    font-size: 1.2rem;
+}
