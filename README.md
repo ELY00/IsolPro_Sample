@@ -15,6 +15,9 @@
 
 <img src="https://github.com/ELY00/IsolPro_Sample/blob/main/rm6.JPG" height="100" width="1000">
 
+###About this Project
+> This Project is mainly focused on providing our day to day tools, so as to provide us an easy to live life motives.
+
 ### Features of this Project
 - ### **Active Web Portal**
   - A Web Application ready to be accessed anywhere, anytime.
